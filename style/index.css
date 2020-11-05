@@ -1,0 +1,95 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f9f4ef;
+}
+
+.header-section{
+    background-color:#515951 ;
+    color:#f9f4ef;
+}
+
+
+
+
+.company-logo-img{
+    height: 5vw;
+    width: 5vw;
+    padding-top: 2vw;
+    padding-left: 1vw;
+}
+
+
+
+
+
+.nav-links{
+    
+    list-style-type:none;
+    display:inline;
+   
+    
+}
+
+.nav-item{
+    padding-left: 15vw;
+    text-align: right;
+    display: inline;
+    color: white;
+    
+}
+
+
+
+
+
+.comapy-heading{
+
+text-align: center;
+
+
+
+}
+
+
+
+
+
+
+
+.company-img{
+    height: 30vw;
+    padding-top:1vw;
+    padding-left: 27%;
+    
+    
+}
+
+.main-text{
+    
+    padding-left: 27%; 
+   width: 47%; 
+    
+   text-align: justify;
+}
+
+.company-footer{
+    padding-top:2vw ;
+    text-align: center;
+    background-color: #515951;
+    color: white;
+    
+}
+
+
+
+.compant-copyrights{
+
+text-align: center;
+padding-bottom:2vw ;
+
+}
+
+
+
+
+
